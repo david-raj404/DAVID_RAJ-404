@@ -1,8 +1,8 @@
-<p align="center"><a href="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/0e3Z3X9.jpeg" width="50" style="margin-right: 10px;"></a>
+<p align="center"><a href="https://www.facebook.com/raj.vai.404" target="_blank" rel="noopener noreferrer">
+  <img src="https://i.imgur.com/DJdVhXS.jpeg" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹MR.AYAN
+🔹DAVID RAJ
 </h5>
 
 ## Introduction
@@ -12,7 +12,7 @@
 	<a href="https://nodejs.org/dist/v11.30.0">
 		<img src="https://img.shields.io/badge/Nodejs%20Support-17.ox-brightgreen.svg?style=flat-square" alt="Nodejs Support v17.ox">
 	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ayankhan/AYAN-BOT.svg?style=flat-square&label=size">
+  <img alt="size" src="https://img.shields.io/github/repo-size/davidraj/DAVID_-RAJ-404.svg?style=flat-square&label=size">
   <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
   <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
   <img alt="size" src="https://img.shields.io/badge/license-ATF-green?style=flat-square&color=brightgreen">
@@ -38,15 +38,15 @@
 			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Ayanchoudhuri🔥</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/NOOBS.DEVELOPER.AYAN" style="color: black;">Ayan🚀</a></h3></div>
+	<a href="https://www.facebook.com/raj.vai.404" style="color: black;">RAJ🚀</a></h3></div>
 
-<img align="center" src="https://i.imgur.com/TsIjePZ.jpeg"/>
-
-
-🔹Mohammad Ayan
+<img align="center" src="https://i.imgur.com/0ljARnr.jpeg"/>
 
 
-# Editing AYAN CHOWDHURY😘
+🔹DAVID RAJ
+
+
+# Editing DAVID RAJ 😘
 
 # GOATBOT real owner I don’t know
 
@@ -54,7 +54,7 @@
 
 # If there is any error, I will fix it by knocking on Facebook
 
-# https://www.facebook.com/NOOBS.DEVELOPER.AYAN
+# https://www.facebook.com/raj.vai.404
 
 # I hope you enjoy
 
